@@ -1,0 +1,4 @@
+#ifndef SALARY_WIDGET_HPP
+#define SALARY_WIDGET_HPP
+
+#endif

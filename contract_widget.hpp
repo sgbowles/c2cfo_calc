@@ -1,0 +1,4 @@
+#ifndef CONTRACT_WIDGET_HPP
+#define CONTRACT_WIDGET_HPP
+
+#endif

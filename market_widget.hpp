@@ -1,0 +1,4 @@
+#ifndef MARKET_WIDGET_HPP
+#define MARKET_WIDGET_HPP
+
+#endif
