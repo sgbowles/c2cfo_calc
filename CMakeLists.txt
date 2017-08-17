@@ -12,7 +12,6 @@ add_executable(Calc main.cpp
 	window.hpp window.cpp
 	contract_widget.hpp contract_widget.cpp
 	market_widget.hpp market_widget.cpp
-	name_widget.hpp name_widget.cpp
 	player_widget.hpp player_widget.cpp
 	salary_widget.hpp salary_widget.cpp
 	year_widget.hpp year_widget.cpp)
