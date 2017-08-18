@@ -2,11 +2,10 @@
 #define MARKET_WIDGET_HPP
 
 #include <QWidget>
-#include <QDoubleSpinBox>
+#include <QString>
 #include <QLayout>
 #include <QLabel>
-
-class QLineEdit;
+#include <QLineEdit>
 
 class MarketWidget : public QWidget {
 	Q_OBJECT
@@ -15,7 +14,7 @@ public:
 	MarketWidget(QWidget * parent = nullptr);
 
 private:
-	QDoubleSpinBox *marketBox;
+	QLineEdit *marketBox;
 	QLineEdit *display;
 	QLabel *marketMessage;
 };
